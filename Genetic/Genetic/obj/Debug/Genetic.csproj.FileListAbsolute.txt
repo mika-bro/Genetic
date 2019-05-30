@@ -1,0 +1,14 @@
+C:\Users\MB\source\repos\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\MB\source\repos\Genetic\Genetic\bin\Debug\Genetic.exe
+C:\Users\MB\source\repos\Genetic\Genetic\bin\Debug\Genetic.pdb
+C:\Users\MB\source\repos\Genetic\Genetic\obj\Debug\Genetic.csprojAssemblyReference.cache
+C:\Users\MB\source\repos\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\MB\source\repos\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\MB\source\repos\Genetic\Genetic\obj\Debug\Genetic.pdb
+C:\Users\mikabro\source\repos\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\mikabro\source\repos\Genetic\Genetic\bin\Debug\Genetic.exe
+C:\Users\mikabro\source\repos\Genetic\Genetic\bin\Debug\Genetic.pdb
+C:\Users\mikabro\source\repos\Genetic\Genetic\obj\Debug\Genetic.csprojAssemblyReference.cache
+C:\Users\mikabro\source\repos\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\mikabro\source\repos\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\mikabro\source\repos\Genetic\Genetic\obj\Debug\Genetic.pdb

@@ -1,0 +1,4 @@
+population:200
+generations:100
+mutation-prob:2
+crossing-prob:80
